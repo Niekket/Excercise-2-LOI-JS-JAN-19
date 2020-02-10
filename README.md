@@ -1,2 +1,5 @@
 # Excercise-2-LOI-JS-JAN-19
-Excercise-2-LOI-JS JAN-19
+
+https://www.loi.nl/n-3374-hbo-programmeren-in-javascript
+
+Second excercise with Javascript, getting to know Javascript.
